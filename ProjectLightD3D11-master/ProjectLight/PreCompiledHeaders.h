@@ -1,0 +1,14 @@
+#pragma once
+#include <Windows.h>
+#include <wrl/client.h>
+#include <windowsx.h>
+#include <iostream>
+#include <fstream>
+#include <d3d11.h>
+#include <vector>
+#include <memory>
+#include <algorithm>
+#include <string>
+#include <d3dcompiler.h>
+#include <sstream>
+#include <array>
